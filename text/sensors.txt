@@ -1,0 +1,10 @@
+HR/SP02:
+  MAX30102
+IMU:
+  BNO085
+Center of Pressure:
+  Eeonyx isoles
+Semg:
+  Custom
+GSR:
+  Custom
