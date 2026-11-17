@@ -4,6 +4,8 @@
 		Κλίμακα ισορροπιας Berg, μετρήσεις του λιχνους του ποδιού για βάση στήριξης, timed up and go test, closed eyes single leg standing test, κλίμακα μονόποδης στήριξης, Tinetti balance test, τεστ ισορροπίςα 4 σταδίων
 	εξοπλισμός:
 		euitest computerized dynamic postugraphy system, postugraphic platform, center of pressure sensors, smart balance master
+    αισθητηρες:
+        cop, imu
 
 χρονιος πονος:
 	2/3 αρθρα αναφερει πως βοήθησε στην αντιμετώπιση του χρόνιου πόνου, 1/3 αναφέρει πως δεν διαφέρει από τις κλασσικές τεχνικές.
@@ -11,12 +13,16 @@
 		κλίμακα vas, nrs, bpi
 	εξοπισμός:
 		semg
+    αισθητήρες:
+        gsr, thermography, algometry, semg, imu, nirs, ppg
 φυσικές λειτουργίες:
 	3/3 άρθρα συμφώνησαν πως το Taiji βελτιώνει τις σωματικές λειτουργίες.
 	χρησιμοποιήθηκαν:
 		functional reach test, tug, mabc-2, sppb, 6mwt, 30-s chair stand test
 	εξοπλισμός:
 		computerized gait analysis, eeg
+    αισθητηρες:
+        sp02, hrv, semg
 
 
 	
